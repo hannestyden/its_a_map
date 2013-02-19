@@ -4,7 +4,7 @@
 
 >> A beloved child has many names.
 
-[Swedish proverb](http://en.wikiquote.org/wiki/Swedish_proverbs)
+[Swedish proverb](http://en.wikiquote.org/wiki/Swedish_proverbs#K)
 
 What Ruby calls `Hash` is actually a map, a dictionary or an associative array.
 
